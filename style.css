@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(blue,  rgb(8, 15, 124), rgb(10, 175, 212));
+    color: white;
+}
+.heading{
+    width: 80%;
+    font-size: 27;
+
+}
+.objects_name, #object_names, #Accuracy{
+    color:aqua
+}
+#camera{
+    width: 330px;
+    height: 310px;
+    border: 2px dashed black;
+}
